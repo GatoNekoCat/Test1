@@ -1,0 +1,8 @@
+@charset "UTF8";
+
+
+img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    padding: 1px; }
